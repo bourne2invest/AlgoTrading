@@ -1,0 +1,15 @@
+ticker,company,earnings_date,eps_estimate,reported_eps,surprise_percent
+DPZ,Domino's Pizza Inc,Apr 23 2020 4,2.32,nan,nan
+DPZ,Domino's Pizza Inc,Feb 20 2020 12,2.98,3.13,+5.03
+DPZ,Domino's Pizza Inc,Oct 08 2019 11,2.07,2.05,-0.97
+DPZ,Domino's Pizza Inc,Jul 16 2019 11,2.02,2.19,+8.42
+DPZ,Domino's Pizza Inc,Apr 24 2019 11,2.09,2.2,+5.26
+DPZ,Domino's Pizza Inc,Feb 21 2019 12,2.69,2.62,-2.6
+DPZ,Domino's Pizza Inc,Oct 16 2018 11,1.75,1.95,+11.43
+DPZ,Domino's Pizza Inc,Jul 19 2018 11,1.75,1.84,+5.14
+DPZ,Domino's Pizza Inc,Apr 26 2018 11,1.77,2,+12.99
+DPZ,Domino's Pizza Inc,Feb 20 2018 1,1.95,2.09,+7.18
+DPZ,Domino's Pizza Inc,Oct 12 2017 7,1.23,1.27,+3.25
+DPZ,Domino's Pizza Inc,Jul 25 2017 12,1.23,1.32,+7.32
+DPZ,Domino's Pizza Inc,Apr 27 2017 12,1.16,1.26,+8.62
+DPZ,Domino's Pizza Inc,Feb 28 2017 1,1.44,1.48,+2.78
